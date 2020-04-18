@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kantor</string>
+
+<string name="currency">Waluta</string>
+<string name="convert">Konwertuj</string>
+<string name="value">Wartość</string>
+    <string name="PLN">PLN</string>
+
+<string-array name="currencies">
+
+    <item>USD</item>
+    <item>EUR</item>
+    <item>CHF</item>
+    <item>GBP</item>
+
+</string-array>
+
+</resources>
